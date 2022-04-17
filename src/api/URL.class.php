@@ -4,7 +4,7 @@
  * @author connect@qq.com
  * @copyright © 2013, Tencent Corporation. All rights reserved.
  */
-namespace Connect21;
+namespace jie\connect;
 
 /*
  * @brief url封装类，将常用的url请求操作封装在一起

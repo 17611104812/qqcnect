@@ -1,6 +1,6 @@
 <?php
 
-namespace Connect21;
+namespace jie\connect;
 /* PHP SDK
  * @version 2.0.0
  * @author connect@qq.com
