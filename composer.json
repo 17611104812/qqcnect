@@ -1,0 +1,16 @@
+{
+    "name": "jie/connect2.1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Connect21\\": "src/api"
+        },
+        "files": ["src/comm/config.php","src/comm/utils.php"]
+    },
+    "authors": [
+        {
+            "name": "吕向杰",
+            "email": "v-xiangjielv@creditease.cn"
+        }
+    ]
+}
