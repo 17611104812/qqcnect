@@ -1,9 +1,9 @@
 {
-    "name": "jie/connect",
+    "name": "jie/qqconnect",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jie\\connect\\": "src/api"
+            "jie\\qqconnect\\": "src/api"
         },
         "files": ["src/comm/config.php","src/comm/utils.php"]
     },
