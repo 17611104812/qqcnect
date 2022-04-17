@@ -1,9 +1,9 @@
 {
-    "name": "jie/connect2.1",
+    "name": "jie/connect",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Connect21\\": "src/api"
+            "jie\\connect\\": "src/api"
         },
         "files": ["src/comm/config.php","src/comm/utils.php"]
     },
